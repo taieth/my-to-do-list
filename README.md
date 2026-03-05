@@ -1,8 +1,8 @@
-# ▶︎ minimalist smart todo — goals for the summer
+# ▶︎ minimalist smart todo — to-do list
 
 a sleek, dark-themed todo application designed to help you track your journey. this isn't just a list; it's a persistent tool with smooth animations and local storage integration.
 
-→ **[view project live](https://taieth.github.io/todo-app/)**
+→ **[view project live](https://taieth.github.io/my-to-do-list/)**
 
 ## ▷ project goals
 the objective was to move beyond simple layouts and handle complex user interactions, data persistence, and custom ui components like animated checkboxes.
