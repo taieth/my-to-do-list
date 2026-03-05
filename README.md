@@ -9,7 +9,7 @@ the objective was to move beyond simple layouts and handle complex user interact
 
 ## 🛠 tech stack
 * **html5:** semantic structure for task management.
-* **css3:** * custom **svg animations** for the checkmark effect.
+* **css3:** custom **svg animations** for the checkmark effect.
     * **flexbox** for a responsive, centered layout.
     * glassmorphism and dark mode aesthetics.
     * advanced transitions using `cubic-bezier` for that "premium" feel.
